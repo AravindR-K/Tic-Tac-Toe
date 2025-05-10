@@ -1,8 +1,6 @@
 # 🎮 Tic-Tac-Toe — A Simple JavaScript Project
 
-## 🌐 Live Demo
-[https://aravindr-k.github.io/Tic-Tac-Toe/](#)  
-
+I have deployed it in github Pages. Do check it out !!
 This is a basic Tic-Tac-Toe game I made to learn how JavaScript works. It was a small personal project to get hands-on with coding, practice logic building, and understand how things connect on the front end.
 
 ## 💡 Why I Built This
