@@ -74,6 +74,7 @@ const checkWinner = () => {
                 showWinner(pos1Val);
             }
             if (count == 9) {
+                count = 0;
                 msg.innerText = `match is Draw`;
                 msgContainer.classList.remove("hide");
                 disableBoxes();
